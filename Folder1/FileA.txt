@@ -1,0 +1,2 @@
+This is FileA.txt
+Sample content for demonstration purposes.

@@ -1,0 +1,2 @@
+This is FileC.txt
+Another sample file with content.
