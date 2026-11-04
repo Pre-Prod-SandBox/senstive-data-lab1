@@ -1,2 +1,4 @@
-This is FileA.txt
+This is FileA.txt - Updated Version 2
 Sample content for demonstration purposes.
+Added more details and updates to the file.
+Timestamp: 2026-11-04
