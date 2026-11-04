@@ -1,2 +1,4 @@
-This is FileC.txt
+This is FileC.txt - Feature Branch Update
 Another sample file with content.
+Updated on feature branch for demonstration.
+Timestamp: 2026-11-04
